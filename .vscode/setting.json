@@ -1,0 +1,11 @@
+{
+    "eslint.workingDirectories": [
+      "/node_modules/eslint"
+    ],
+    "prettier.workingDirectories": [
+        "/node_modules/prettier"
+    ],
+    "eslint-plugin-prettier.workingDirectories": [
+        "/node_modules/eslint-plugin-prettier"
+    ]
+}
